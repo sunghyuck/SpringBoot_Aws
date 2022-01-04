@@ -3,12 +3,14 @@ package com.aws.springboot.domain.posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import org.hibernate.annotations.DynamicUpdate;
 
 import javax.persistence.*;
 
 @Getter
 @NoArgsConstructor
 @Entity
+@DynamicUpdate
 public class Posts extends BaseTimeEntity{
 
     @Id
