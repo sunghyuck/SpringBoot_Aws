@@ -35,3 +35,15 @@
 /build/libs/SpringBoot_Aws-1.0.4-SNAPSHOT-20211222232341.jar
 /build/reports/tests/test/css/style.css
 /build/test-results/test/TEST-com.aws.springboot.web.PostsApiControllerTest.xml
+/build/reports/tests/test/classes/com.aws.springboot.web.IndexControllerTest.html
+/build/resources/main/templates/layout/footer.mustache
+/build/resources/main/templates/layout/header.mustache
+/build/resources/main/static/js/app/index.js
+/build/resources/main/templates/index.mustache
+/build/classes/java/main/com/aws/springboot/web/IndexController.class
+/build/classes/java/test/com/aws/springboot/web/IndexControllerTest.class
+/build/resources/main/templates/posts-save.mustache
+/build/resources/main/templates/posts-update.mustache
+/build/classes/java/main/com/aws/springboot/web/dto/PostsListResponseDto.class
+/build/libs/SpringBoot_Aws-1.0.4-SNAPSHOT-20220101234751.jar
+/build/test-results/test/TEST-com.aws.springboot.web.IndexControllerTest.xml
